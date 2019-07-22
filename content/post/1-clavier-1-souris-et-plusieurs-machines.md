@@ -1,83 +1,40 @@
 +++
-date = "2005-04-14T22:17:00+02:00"
-draft = false
-slug = "1-clavier-1-souris-et-plusieurs-machines"
+date = "2019-07-22T20:20:00+00:00"
+slug = "Cannabis & Hemp Dilemma"
 tags = ["tools"]
-title = "1 clavier, 1 souris, et plusieurs machines."
+title = "Cannabis & Hemp Dilemma"
 
 +++
-Vous avez 2 écrans branchés sur une même machine, ou plusieurs ordinateurs sous différents OS.
 
-Je vous présente dans ce billet des méthodes pour profiter au maximum de vos machines avec 1 clavier et 1 souris.
+# Cannabis & Hemp Dilemma
 
-Autrement dit : passer la souris/clavier de votre PC linux à l'ordinateur portable sous MS Windows ou MACosX, et ceci de manière naturelle sans manipulation spéciale.
-
-
-
-Tout informaticien ou geek qui se respecte posséde au moins 2 ordinateurs chez lui, ou au moins 2 écrans branchés sur sa machine.
-Il y a donc aussi au moins 2 claviers et 2 souris qui traînent sur le même bureau et c'est tout de suite moins marrant de passer d'un clavier à l'autre (quand on se trompe pas) et d'une souris à l'autre.
-
-# Les solutions existent
-
-* Installer un "Switch KVM" (Keyboard, Video, Mouse), un petit boitier sur lequel vous branchez 1 clavier et 1 souris, et que vous reliez à toutes vos autre machines.
-	* Problèmes : vous devez relier physiquement toutes les machines (cartes graphiques, sortie clavier/souris) au boîtier, et appuyer sur un bouton pour passer d'une machine à l'autre, et payer !
-	* Avantages : Ça marche avec tous les systèmes et aucune installation de logiciel n'est nécessaire.
-* Utiliser 1 seul écran/clavier/souris et prendre le controle des autres machines en mode console, ou en mode graphique avec un PcAnywhere / VNC / Remote X Session (Unix / Linux)
-	* Problèmes : C'est pas pratique, vous gardez 1 écran et perdez en surface utilisable.
-	* Avantages : Ça marche avec tous les systèmes. / des outils gratuits existent
-    
-3eme solution, utiliser tous les écrans, avec un seul clavier, une seule souris, pour former un unique large écran virtuel.
-
-En fait pour passer d'un écran à l'autre, il suffira de glisser la souris vers le bord en direction de l'écran suivant, et quand elle disparaît d'un écran elle apparaît sur l'autre écran, créant l'illusion que vous avez déplacé la souris sur l'autre écran (le clavier est actif sur l'écran où est la souris, idem pour? le presse-papiers ! et ceci d'un OS à l'autre !)
-
-Vous disposez les écrans de la manière que vous voulez.
-
-# Les outils existent et ils sont tous gratuit
-
-* Synergie, le plus complet, vous permet de partager votre souris/clavier/presse-papier entre plusieurs machines (windows/Linux/Unix) et MAC ( même combinés ).
-* x2x lui est limités aux serveurs X donc, linux/unix/macOsx et windows (si vous installer un serveur x dessus).
-* x2vnc est utilisable lorsque le clavier et la souris sont sur un ordinateur sous serveur X, et les autres machines sous n'importe quel OS, ce logiciel utilise le protocole RFB de VNC pour communiquer avec les autres ordinateur.
-* win2vnc lui est fait pour l'utilisateur qui a son clavier/souris branchés sur une machine Windows, les OS des autres machines n'ont pas d'importance.
-
-
-# Tous ces outils fonctionnent de la même façon
-
-* (pour windows) il faut installer un serveur VNC sur les machines esclaves.  
-(pour linux/unix/mac) il faut autoriser les connections depuis la machine maître. (une simple commande du type : $xhost + machineMaitre)
-* Sur la machine Maître (celle sur laquelle le clavier et souris sont installés) on lance x2x, x2vnc, win2vnc ou Synergie (en fonction de sa configuration).
-On déclare que la machine esclave1 est à gauche de l'écran maître, que exclave2 est à droite, en bas ou en haut par rapport au maître, ainsi de suite.
-* Avec votre souris, passez d'un écran à l'autre.
-
-## Explications techniques
-
-Lorsque vous avez démarré l'outil en lui indiquant que par exemple, la machine esclave 2 est à droite de l'écran maître, l'outil va créer une fenêtre (invisible) de 1 pixel de largeur et prenant toute la hauteur de votre écran, lorsque la souris passe dessus, hop ! il envoie le focus sur l'autre écran (en fait il envoie uniquement les codes des touches claviers et les coordonnées de la souris.).
-
-Le point négatif que l'on peut trouver au système c'est la sécurité : les informations passent par le réseaux (dans le cas de plusieurs machines) et en clair (protocole RFB ou Xwindow).
-
-La solution sous linux/unix est de créer un tunnel SSH entre maître et esclave.
-
-A noter que vous pouvez utiliser ce système en local si vous avez 2 ou 3 écrans banchés sur le même PC ! (Le mode Xinerama vous permet ceci... mais pas si vous avez un serveur X par carte graphique. (Xinerama = un serveur logique sur plusieurs cartes graphiques).
-
-C'est simple, limite débile, mais c'est excellent et extrêmement pratique.
-
-# Les liens
-
-**Synergy**  
-<http://synergy2.sourceforge.net/>
-le plus complet de ces outils, écrans de veille synchro, multi OS dans tous les sens...
-licence : GPL
-
-**x2x**  
-<http://freshmeat.net/projects/x2x/>
-pour serveurs Xwindow seulement.
-Licence BSD
-
-**x2VNC**  
-<http://fredrik.hubbe.net/x2vnc.html>
-Au moins le serveur maître en Xwindows, limité, techniquement, à 2 écrans !
-Licence GPL
-
-**Win2vnc**  
-<http://fredrik.hubbe.net/win2vnc.html>
-description
-la même chose que x2VNC mais pour serveur Windows seulement
+Cannabis is having a moment. This plant — the focus of legal debate, strong emotion and great confusion — currently finds itself front and center in American pop culture, in Congress and in households across the country. Where cannabis is not currently is an even larger issue, as many argue it has life or death consequences.  
+  
+Cannabis is the plant that produces marijuana — high in THC, or the element that has psychotropic effects. The same plant is manufactured to produce CBD, derived from industrial hemp that’s low in THC (less than .03 percent) with no psychotropic effects. And yet, the federal government treated both marijuana and hemp as a schedule one drug until late 2018 when Congress passed the Farm Bill. The Farm Bill allows hemp to be grown as an agricultural crop.  
+  
+Hemp has many uses, but in 2018 a World Health Organization (WHO) report showed that CBD derived from industrial hemp has multiple health benefits, including alleviating PTSD, chronic pain, depression, anxiety, insomnia, seizures and migraines, among others. More importantly, The WHO showed CBD had no addictive impact. Additionally, U.S. patent 6630507 also states the medical benefits of CBD.  
+  
+“I’ve lost more friends from suicide since I’ve been out than I did in combat,” said Malachias Gaskin, former Army combat medic. “I want to ask, why would we prescribe medications where some of the side effects are suicide, then question why we lose 22 soldiers a day to suicide?”  
+  
+Gaskin is one of thousands of veterans who are questioning why the Veterans Administration is not allowed to prescribe CBD derived from industrial hemp as an alternative to addictive opioids. Currently, an estimated 22 veterans per day commit suicide. Suicidal thoughts are a known byproduct of opioids, of which the VA is the largest prescriber in the United States.  
+  
+“I was on multiple VA-prescribed drugs,” said Gaskin. “Due to the issues related to my bursitis, my arm was in a sling when a buddy told me about CBD. I got a bottle of 300 mg. After taking it twice a day for three days, I was back in the gym, lifting my full weight.” Gaskin said CBD also helped him get much needed sleep, devoid of nightmares.  
+  
+Currently, the 116th Congress is considering multiple bills aimed at medical cannabis; however, none of them is focused solely on medicinal hemp, the one element that could legally be pushed through thanks to the Farm Bill.  
+  
+“Hemp is now federally legal. There’s nothing stopping the VA from studying it,” said Steve Danyluk, founder, Warfighter Hemp and author, The 2019 Medicinal Hemp Research Act. “So, what’s the holdup? Every day we wait, more veterans are dying.”  
+  
+Danyluk founded Warfighter Hemp in 2017 after retiring as a lieutenant colonel in the U.S. Marines. His last tour was working wounded issues at Walter Reed National Military Medical Center, which opened his eyes to the opioid impact on veterans. He knew there had to be a better solution.  
+  
+He’s working with legislators to introduce the 2019 Medicinal Hemp Research Act, which would allow the VA to study CBD derived from industrial hemp and ultimately prescribe CBD as it currently does other supplements.  
+  
+“CBD derived from industrial hemp can be easily sourced and provided to veterans and anyone suffering from chronic pain. We have hundreds of testimonials that it works. We now need Congress to do the work to pass a bill forcing the VA to study it,” said Danyluk.  
+  
+Warfighter Hemp grows its hemp on Colorado’s largest organic hemp farm. This 100 percent organic, U.S.-grown hemp results in high-quality CBD, of critical importance, as some CBD is shipped from overseas under unknown conditions. Fifty percent of Warfighter Hemp proceeds go to support veteran charities.  
+  
+To learn more about what you can do to help get the 2019 Medicinal Hemp Research Act introduced and passed, visit   
+  
+[https://warfighterhemp.com/va-2019-medicinal-hemp-research-act/](https://warfighterhemp.com/va-2019-medicinal-hemp-research-act/ "https://warfighterhemp.com/va-2019-medicinal-hemp-research-act/")  
+  
+[https://warfighterhemp.com/va-2019-medicinal-hemp-research-act/](https://warfighterhemp.com/va-2019-medicinal-hemp-research-act/ "https://warfighterhemp.com/va-2019-medicinal-hemp-research-act/")  
+to complete a form and send to your Congress person.
