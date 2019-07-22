@@ -1,6 +1,7 @@
 +++
 date = "2006-08-30T03:45:00+02:00"
 draft = false
+image ="/images/c19.jpg"
 layout = "cover"
 title = "Significant Cases"
 type = "page"
