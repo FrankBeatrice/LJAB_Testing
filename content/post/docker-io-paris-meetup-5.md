@@ -1,10 +1,9 @@
 +++
 date = "2014-02-14T09:13:00+01:00"
-draft = false
 image = "/content/images/c4.jpg"
 slug = "docker-io-paris-meetup-5"
 tags = ["event", "docker", "meetup"]
-title = "Docker.io Paris MEETUP #5"
+title = "Cannabis News"
 
 +++
 Veille de saint Valentin 2014, les curieux, passionnés et amoureux de Docker se sont rencontrés encore une fois pour échanger leurs expériences autour de [Docker.io](http://docker.io)
@@ -65,5 +64,3 @@ Voilà, belle soirée, rencontres et présentations -- à bientôt pour le proch
 Et merci a [DockerParis](http://www.meetup.com/Docker-Paris), [@Patrick Aljord](https://twitter.com/patcito‎) et [@Nuxeo](https://twitter.com/nuxeo‎) pour l'organisation !
 
 ![](/content/images/2014/Feb/docker_logo.png)
-
-
