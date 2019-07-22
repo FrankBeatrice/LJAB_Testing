@@ -1,5 +1,5 @@
 +++
-date = "2014-02-14T09:13:00+01:00"
+date = "2019-07-22T07:13:00+00:00"
 image = "/content/images/c4.jpg"
 slug = "docker-io-paris-meetup-5"
 tags = ["event", "docker", "meetup"]
