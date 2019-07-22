@@ -2,6 +2,7 @@
 date = "2006-08-30T03:45:00+02:00"
 draft = false
 layout = "cover"
+image ="/images/c22.jpg"
 title = "Attorneys"
 type = "page"
 
