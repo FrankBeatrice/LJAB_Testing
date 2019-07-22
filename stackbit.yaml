@@ -1,0 +1,144 @@
+stackbitVersion: ~0.2.46
+ssgName: hugo
+publishDir: public 
+buildCommand: hugo
+injectLocations:
+  htmlHead:
+    file: layouts/_default/baseof.html
+    tagName: head
+  htmlBody:
+    file: layouts/_default/baseof.html
+    tagName: body
+uploadDir: images
+models:
+  config:
+    type: config
+    label: Config
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: Site title
+      - type: string
+        name: baseURL
+        label: Base URL
+        description: Hostname (and path) to the root
+        hidden: true
+      - type: string
+        name: Copyright
+        label: Copyright
+        description: Site Copyright
+      - type: string
+        name: languageCode
+        label: languageCode
+        description: Site languageCode
+      - type: string
+        name: paginate
+        label: paginate
+        description: Site post paginate
+      - type: object
+        name: params
+        label: Params
+        fields:
+          - type: string
+            name: description
+            label: description
+            description: Site description
+          - type: string
+            name: metadescription
+            label: metadescription
+            description: Site metadescription
+            hidden: true
+          - type: image
+            name: logo
+            label: Logo
+            description: the path of the logo image
+            required: true
+          - type: string
+            name: author
+            label: author
+            description: name of the author
+          - type: string
+            name: authorwebsite
+            label: authorwebsite
+            description: authorwebsite
+          - type: string
+            name: authorlocation
+            label: authorlocation
+            description: authorlocation
+          - type: string
+            name: authorbio
+            label: authorbio
+            description: authorbio
+          - type: string
+            name: googleAnalyticsUserID
+            label: googleAnalyticsUserID
+            description: googleAnalyticsUserID
+          - type: string
+            name: googleAnalyticsUserID
+            label: googleAnalyticsUserID
+            description: googleAnalyticsUserID
+          - type: string
+            name: hjsStyle
+            label: hjsStyle
+            description: hjsStyle
+            default: default
+          - type: boolean
+            name: hideHUGOSupport
+            label: hideHUGOSupport
+            description: hideHUGOSuppor
+            default: ture
+          - type: image
+            name: cover
+            label: cover
+            description: Site cover image
+  page:
+    type: page
+    label: page
+    layout: cover
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: string
+        name: description
+        label: Description
+        description: The text shown just below the features title.
+      - type: image
+        name: image_thumbnail
+        label: Thumbnail Image
+        description: The image shown in the feature.
+      - type: string
+        name: type
+        label: type
+        description: type of the file
+      - type: page_menus
+        name: menu
+        label: Feature Menus
+        description: Which menus should this page show up in
+  post:
+    type: page
+    label: post
+    layout: single
+    folder: post
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: string
+        name: slug
+        label: slug
+        description: url the page.
+        required: true
+      - type: list
+        name: tags
+        label: tags
+        description: tags of the blog post.
+      - type: date
+        name: date
+        label: date
+        description: date of the blog post.
