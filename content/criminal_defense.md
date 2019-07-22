@@ -2,7 +2,7 @@
 date = "2006-08-30T03:45:00+02:01"
 layout = "cover"
 image ="/images/c30.jpg"
-title = "Cannabis Law"
+title = "Criminal Defense"
 type = "page"
 
 +++
