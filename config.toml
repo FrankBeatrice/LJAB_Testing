@@ -6,7 +6,7 @@ canonifyurls = true
 paginate = 5
 [[menu.main]]
 identifier = "Contact Us"
-name = "- Contact us "
+name = "- Contactus "
 pre = "<h3>Contact Us</h3>"
 url = "/contact_us/"
 weight = 1
