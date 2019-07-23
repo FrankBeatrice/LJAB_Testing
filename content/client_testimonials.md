@@ -9,11 +9,11 @@ type = "page"
 +++
 Client Review, CBD Processing License Matter: 
 
-I would like to share a great experience working the The Law Offices of Joseph A. Bondy. Last year, New York State opened its  Hemp CBD Processing & Manufacturing License application process, to file between Dec 3 - 27th. We decided to apply for the license of December 7th, and retained Mr. Bondy's Office. Within two weeks,  Mr. Bondy had assisted in gathering and coordinating all of our documentation and information for the state Department of Agriculture, and by December 20th our application was filed successfully. WOW amazing work in such a short period of time, with a great result in the end, thanks Joe."
+"I would like to share a great experience working the The Law Offices of Joseph A. Bondy. Last year, New York State opened its  Hemp CBD Processing & Manufacturing License application process, to file between Dec 3 - 27th. We decided to apply for the license of December 7th, and retained Mr. Bondy's Office. Within two weeks,  Mr. Bondy had assisted in gathering and coordinating all of our documentation and information for the state Department of Agriculture, and by December 20th our application was filed successfully. WOW amazing work in such a short period of time, with a great result in the end, thanks Joe."
 
 Client Review, CBD Processing License Matter:
 
-Our Group, Gaard Biopharma, Inc., hired Joe for our CBD Processing License application, as part of the Cannabis Research Program in New York State. He put his heart and soul into making sure everything was complete, and pristine before we applied. Needless to say, we were awarded one of only 15 licenses, out of 352 applicants. That's a mere 4% of the amount of applicants that filed. As we set up our extraction facility, I am also using Mr. Bondy's services for a couple of other projects relating to Cannabis. He is MY lawyer. Top shelf. If you want the best, Joe is the man. 
+"Our Group, Gaard Biopharma, Inc., hired Joe for our CBD Processing License application, as part of the Cannabis Research Program in New York State. He put his heart and soul into making sure everything was complete, and pristine before we applied. Needless to say, we were awarded one of only 15 licenses, out of 352 applicants. That's a mere 4% of the amount of applicants that filed. As we set up our extraction facility, I am also using Mr. Bondy's services for a couple of other projects relating to Cannabis. He is MY lawyer. Top shelf. If you want the best, Joe is the man." 
 
 Client Review, Juvenile Justice Case:
 
