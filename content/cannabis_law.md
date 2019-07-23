@@ -1,12 +1,12 @@
 +++
 date = "2006-08-30T03:45:00+02:00"
+image = "/images/c5.jpg"
 layout = "cover"
-image ="/images/c5.jpg"
 title = "Cannabis Law"
 type = "page"
 
 +++
-The Law Offices Of Joseph A. Bondy represent businesses and individuals at every level of the cannabis supply chain. Our clients include state-licensed adult-use marijuana, medical marijuana and hemp cultivators, processors, distributors and dispensaries, whether vertically integrated or operating as standalone businesses, as well as investors in those businesses. We also represent the full range of business vendors that supply their products and services to the cannabis industry, such as raw materials, technology, advertising, social media, consumption products and security companies. We have advised a wide variety of non-cannabis companies, including traditional consumer goods companies, real estate developers, insurance companies, banks, media companies, government contractors, broker-dealers, and private equity and venture capital funds in evaluating the regulatory and business considerations pertinent to entering into the cannabis space.
+The Law Offices Of Joseph A. Bondy represents companies and individuals at various levels of the legal cannabis supply chain, across a broad spectrum of legal, strategic and consulting issues. The firm's clients have included state-licensed adult-use marijuana, medical marijuana and hemp cultivators, processors, distributors and dispensaries, and investors in those businesses. It also represents the full range of business vendors that supply their products and services to the cannabis industry, such as raw materials, technology, advertising, social media, consumption products and security companies. We have advised a wide variety of non-cannabis companies, including traditional consumer goods companies, real estate developers, insurance companies, banks, media companies, government contractors, broker-dealers, and private equity and venture capital funds in evaluating the regulatory and business considerations pertinent to entering into the cannabis space.
 
 Our attorneys have gained comprehensive, hands-on, cannabis-related experience and apply that knowledge to advise clients based in the United States, Canada and other countries on the federal, state and local laws, regulations and governmental guidance relevant to conducting business and investing in cannabis. This includes the Controlled Substances Act (CSA), Agriculture Improvement Act of 2018 (also known as the 2018 Farm Bill), Bank Secrecy Act, anti-money laundering (AML) statutes and the Food, Drug, and Cosmetic Act, as well as the Drug Enforcement Administration (DEA), Department of Agriculture (USDA) and Food and Drug Administration (FDA) regulations and guidance, and state-specific marijuana and hemp regulations.
 
@@ -16,7 +16,7 @@ We have provided corporate governance and capital formation advice on both publi
 
 Mr Bondy's deep commitment to the cannabis space is best reflected by his involvment in the social justice reform of cannabis. Working with Michael Hiller and Cannabis Cultural Association on land-mark case for the rights of all american medical patients.
 
-The Law Offices Of Joseph A. Bondy is among the national leaders in cannabis law by Chambers and Partners. 
+The Law Offices Of Joseph A. Bondy is among the national leaders in cannabis law by Chambers and Partners.
 
 The Law Offices Of Joseph A. Bondy are at the forefront of this industry, driving thought leadership through frequent presentations at industry conferences, providing media outlets with insightful information, as well as supplying clients with the latest information through our Cannabis Industry Blog and webinar series.
 
@@ -37,7 +37,7 @@ Corporate
 Corporate formation and structure, addressing complexities resulting from state-specific statutes and the conflict between federal and state law
 Public companies and filings with Securities and Exchange Commission (SEC) and other agencies
 Capital formation activities, including public and private securities offerings and lending transactions
-Mergers and acquisitions 
+Mergers and acquisitions
 Partnership and operating agreements
 Domestic and cross-border financing and merger and acquisition transactions
 Taxation
