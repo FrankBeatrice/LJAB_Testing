@@ -13,9 +13,9 @@ weight = 120
 
 <p>When contacting The Law Offices of Joseph A. Bondy, please include your Name, Email Address, and Company in your message. 
 
-Attorney Advertising. Prior results do not guarantee a similar outcome.
+The information contained on this Web site is Attorney Advertising. Prior results do not guarantee a similar outcome.
 
-The information contained on this Web site is provided for informational purposes only and should not be construed as legal advice on any subject matter. Recipients of content from this site should not take or refrain from taking any action based upon content included in the site without seeking legal counsel on the particular facts and circumstances at issue from an attorney licensed in the recipient's state.
+The information is provided for informational purposes only and should not be construed as legal advice on any subject matter. Recipients of content from this site should not take or refrain from taking any action based upon content included in the site without seeking legal counsel on the particular facts and circumstances at issue from an attorney licensed in the recipient's state.
 
 The content of this Web site contains general information and may not reflect current legal developments. Such content is designed only to give general information on the developments actually covered. It is not intended to be a comprehensive summary of recent developments in the law, treat exhaustively the subjects covered, provide legal advice or render a legal opinion. The  lawyers named in the Web site may not be authorized to practice law except in jurisdictions where the firm maintains it office.
 
