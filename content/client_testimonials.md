@@ -13,7 +13,7 @@ Client Review, CBD Processing License Matter:
 
 Client Review, CBD Processing License Matter:
 
-"Our Group, Gaard Biopharma, Inc., hired Joe for our CBD Processing License application, as part of the Cannabis Research Program in New York State. He put his heart and soul into making sure everything was complete, and pristine before we applied. Needless to say, we were awarded one of only 15 licenses, out of 352 applicants. That's a mere 4% of the amount of applicants that filed. As we set up our extraction facility, I am also using Mr. Bondy's services for a couple of other projects relating to Cannabis. He is MY lawyer. Top shelf. If you want the best, Joe is the man." 
+"Our Group, Gaard Biopharma, Inc., hired Joe for our CBD Processing License application, as part of the Cannabis Research Program in New York State. He put his heart and soul into making sure everything was complete, and pristine before we applied. Needless to say, we were awarded one of only 15 licenses, out of 352 applicants! That's a mere 4% of the amount of applicants that filed. As we set up our extraction facility, I am also using Mr. Bondy's services for a couple of other projects relating to Cannabis. He is MY lawyer. Top shelf. If you want the best, Joe is the man." 
 
 Client Review, Juvenile Justice Case:
 
