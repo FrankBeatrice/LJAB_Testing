@@ -1,0 +1,21 @@
+---
+label: Data files
+hide_body: true
+fields:
+- name: bio
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Bio
+  description: Profile bio data goes here
+  hidden: false
+- name: profile_img
+  type: file
+  config:
+    maxSize: 250
+  label: Profile Image
+  description: Recommmened size 220x263
