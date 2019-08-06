@@ -10,7 +10,7 @@ Under our American system of jurisprudence, the presumption of innocence and rig
 
 Mr. Bondy treats every client's matter individually, from pre-charging to post-conviction. Every case is distinct, as are the matrix of client, prosecutor, witnesses, allegations, and evidence. Through securing pre-trial release, to developing winning theories and themes of the defense, writing successful pleadings, and zealously representing our clients' interests at hearings and trials, the aim of the Office is to  prevail in each matter, whether by acquittal, dismissal, reduced sentence, or reversal.
 
-Below are just a few of the results of Mr. Bondy’s dedicated advocacy:
+Below are just a few of the results of Mr. Bondy’s dedicated criminal advocacy:
 
 • People v. MN, Dismissal of attempted murder and all other charges, due to prosecutorial misconduct in attempting to manipulate speedy trial exclusions, New York County.
 
