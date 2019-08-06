@@ -8,7 +8,7 @@ type = "page"
 +++
 Below are just a few of the results of Mr. Bondy’s dedicated advocacy:
 
-• Gaard Biopharma Corp., Client granted one of 15 NYS CBD processing licenses, out of a pool of 352 applicants.
+• Gaard Biopharma Inc, Client granted one of 15 NYS CBD processing licenses, out of a pool of 352 applicants.
 
 • Bedessee Disribution Corp., Client granted one of 15 NYS CBD processing licenses, out of a pool of 352 applicants.
 
