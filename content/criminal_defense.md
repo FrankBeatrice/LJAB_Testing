@@ -8,9 +8,9 @@ type = "page"
 +++
 Under our American system of jurisprudence, the presumption of innocence and right to counsel are fundamental Constitutional tenets, which extend to us all. Every person accused has a right to engage the best criminal defense attorney that they possibly can. Admittedly, deciding who the best criminal lawyer is for a given client and case can be challenging. For nearly twenty-five years, Joseph A. Bondy has been committed to protecting individuals' rights, shielding people from the power of the state, while winning state and federal acquittals, dismissals, deferred prosecutions, sentence reductions, and appellate and post-conviction reversals.
 
-Mr. Bondy treats every client's matter individually, from pre-charging to post-conviction. Every case is distinct, as are the matrix of client, prosecutor, witnesses, allegations, and evidence. Through securing pre-trial release, to developing winning theories and themes of the defense, writing successful pleadings, and zealously representing our clients' interests at hearings and trials, the aim of the Office is to  prevail in each matter, whether by acquittal, dismissal, reduced sentence, or reversal.
+Mr. Bondy treats every client's matter individually, from pre-charging to post-conviction. Every case is distinct, as are the matrix of client characteristics, prosecutors, witnesses, allegations, and evidence. Through securing pre-trial release, to developing winning theories and themes of the defense, writing successful pleadings, and zealously representing our clients' interests at hearings and trials, the aim of the Office is to  prevail in each matter, whether by acquittal, dismissal, reduced sentence, or reversal.
 
-Below are just a few of the results of Mr. Bondy’s dedicated criminal advocacy:
+Below are just a few of the results of Mr. Bondy’s dedicated criminal defense advocacy:
 
 • People v. MN, Dismissal of attempted murder and all other charges, due to prosecutorial misconduct in attempting to manipulate speedy trial exclusions, New York County.
 
