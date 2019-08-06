@@ -11,7 +11,7 @@ weight = 120
 +++
 <div class="form-box">
 
-<p>When contacting The Law Offices of Joseph A. Bondy, please include your Name, Email Address, and Company in your message. 
+<p>When contacting The Law Offices of Joseph A. Bondy, please include your Name, Email Address, and Company in your message.
 
 The information contained on this Web site is Attorney Advertising. Prior results do not guarantee a similar outcome.
 
@@ -23,7 +23,7 @@ By emailing or otherwise transmitting information through this site or otherwise
 
 The Law Offices of Joseph A. Bondy does not endorse and is not responsible for any third-party content that may be accessed from its Web site and does not recommend or endorse the use of any third-party's services.
 
-Copyright 1999-2019</p>
+Copyright 1996-2019</p>
 
 <form action="https://api.formbucket.com/f/c2K3QTQ" method="post">
 <label for="name">Name</label>
