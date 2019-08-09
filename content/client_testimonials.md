@@ -7,6 +7,10 @@ title = "Testimonials"
 type = "page"
 
 +++
+Client Review, Cannabis Due Diligence Matter: 
+
+"Joe Bondy is a consummate professional and an expert in his field. I hired Joe to help me navigate an investment opportunity on a potential new hemp farm — in Puerto Rico. He was able to get to the bottom of the feasibility assessment — from NYC — via phone within days. His expertise in his ability to assess the potential output versus liability for my investment was apparent from the second he came on board. Within 72 hours, Joe was able to get my initial deposit on the investment returned. Cannot thank him enough for his expertise and experience. Highly recommend."--Paul S NYC
+
 Client Review, CBD Processing License Matter:
 
 "I would like to share a great experience working the The Law Offices of Joseph A. Bondy. Last year, New York State opened its  Hemp CBD Processing & Manufacturing License application process, to file between Dec 3 - 27th. We decided to apply for the license of December 7th, and retained Mr. Bondy's Office. Within two weeks,  Mr. Bondy had assisted in gathering and coordinating all of our documentation and information for the state Department of Agriculture, and by December 20th our application was filed successfully. WOW amazing work in such a short period of time, with a great result in the end, thanks Joe."
@@ -15,7 +19,7 @@ Client Review, CBD Processing License Matter:
 
 "Our Group, Gaard Biopharma, Inc., hired Joe for our CBD Processing License application, as part of the Cannabis Research Program in New York State. He put his heart and soul into making sure everything was complete, and pristine before we applied. Needless to say, we were awarded one of only 15 licenses, out of 352 applicants! That's a mere 4% of the amount of applicants that filed. As we set up our extraction facility, I am also using Mr. Bondy's services for a couple of other projects relating to Cannabis. He is MY lawyer. Top shelf. If you want the best, Joe is the man."
 
-Client Review, Criminal Matter: 
+Client Review, Criminal Matter:
 
 "My only regret is not finding Joseph sooner. After hiring and firing three attorneys in three-year-old case, I asked Joseph to take over. He exercised patience, demonstrated knowledge of important nuances, and importantly provided friendly support in a very stressful process. Unlike other attorneys who grew impatient with a drawn-out proceeding, he displayed commitment and conviction that ultimately resulted in a favorable disposition. I cannot thank him enough."
 
