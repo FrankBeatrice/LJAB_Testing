@@ -1,7 +1,7 @@
 +++
 date = "2019-07-22T20:20:00+00:00"
 slug = "Cannabis News"
-tags = ["tools"]
+tags = ["Cannabis" "Legal" "Horticulture"]
 title = "Cannabis News"
 
 +++
