@@ -36,5 +36,4 @@ Copyright 1996-2019</p>
              <br><br>
       <input class="waves-effect waves-light btn blue darken-2 right" type="submit" value="Send">
     </form>
-  </div>
 </div>
