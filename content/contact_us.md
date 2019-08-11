@@ -25,17 +25,17 @@ The Law Offices of Joseph A. Bondy does not endorse and is not responsible for a
 
 Copyright 1996-2019</p>
 
-<form action="https://api.formbucket.com/f/c2K3QTQ" method="post">
-<label for="name">Name</label>
-<input id="name" type="text" name="Name">
-<br><br>
-<label for="email">Email</label>
-<input id="email" type="email" name="Email">
-<br><br>
-<label for="message">Message</label>
-<textarea id="message" name="Message"></textarea>
-<br><br>
-<input class="button-primary" type="submit" value="Submit" />
-
-</form>
+<form action="https://formspree.io/josephbondy@mac.com" method="POST">
+      <input placeholder="Name" class="input-field" type="text" name="name"/><br>
+      <br>
+      <input placeholder="Subject" class="input-field" type="text" name="subject"/><br>
+      <br>
+      <input placeholder="E-mail" class="input-field" type="email" name="_replyto">
+      <br><br>
+        <textarea id="textarea1" class="materialize-textarea" placeholder="Enter your message here..." name="message" data-length="900"></textarea>
+             <br><br>
+      <input class="waves-effect waves-light btn blue darken-2 right" type="submit" value="Send">
+      <input type="hidden" name="_next" value="https://codepen.io/bhill2588/full/PjeZgN/" />
+    </form>
+  </div>
 </div>
