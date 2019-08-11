@@ -1,12 +1,12 @@
 +++
 date = "2019-07-22T20:20:00+00:00"
-slug = "Cannabis & Hemp Dilemma"
+slug = "Cannabis News"
 tags = ["tools"]
-title = "Cannabis & Hemp Dilemma"
+title = "Cannabis News"
 
 +++
 
-# Cannabis & Hemp Dilemma
+# Cannabis News
 
 Cannabis is having a moment. This plant — the focus of legal debate, strong emotion and great confusion — currently finds itself front and center in American pop culture, in Congress and in households across the country. Where cannabis is not currently is an even larger issue, as many argue it has life or death consequences.  
   
