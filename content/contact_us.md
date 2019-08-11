@@ -35,7 +35,6 @@ Copyright 1996-2019</p>
         <textarea id="textarea1" class="materialize-textarea" placeholder="Enter your message here..." name="message" data-length="900"></textarea>
              <br><br>
       <input class="waves-effect waves-light btn blue darken-2 right" type="submit" value="Send">
-      <input type="hidden" name="_next" value="https://codepen.io/bhill2588/full/PjeZgN/" />
     </form>
   </div>
 </div>
