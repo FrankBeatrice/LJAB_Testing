@@ -16,9 +16,9 @@
     </ul>
 
     {{ if .Site.Params.RSSLink}}
-    <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a> </div>
+   <!-- Commented Out   <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a> </div> //-->
     {{else}}
-    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Subscribe</a>
+  <!-- Commented Out    <a class="subscribe-button icon-feed" href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | relURL}}{{end}}">Subscribe</a> //-->
     {{end}}
-</div>
+   </div>
 <span class="nav-cover"></span>
