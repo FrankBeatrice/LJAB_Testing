@@ -9,7 +9,7 @@ type = "page"
 +++
 Client Review, Cannabis Law, Investor Due Diligence Matter:
 
-"Joe Bondy is a consummate professional and an expert in his field. I hired Joe to help me navigate an investment opportunity on a potential new hemp farm — in Puerto Rico. He was able to get to the bottom of the feasibility assessment — from NYC — via phone within days. His expertise in his ability to assess the potential output versus liability for my investment was apparent from the second he came on board. Within 72 hours, Joe was able to get my initial deposit on the investment returned. Cannot thank him enough for his expertise and experience. Highly recommend."--Paul S NYC
+"Joe Bondy is a consummate professional and an expert in his field. I hired Joe to help me navigate an investment opportunity on a potential new hemp farm, located in Puerto Rico. He was able to get to the bottom of the feasibility assessment — from NYC — via phone within days. His expertise in his ability to assess the potential output versus liability for my investment was apparent from the second he came on board. Within 72 hours, Joe was able to get my initial deposit on the investment returned. I cannot thank him enough for his expertise and experience. Highly recommend."--Paul S NYC
 
 Client Review, Cannabis/ Hemp Law, CBD Processing License Matter:
 
