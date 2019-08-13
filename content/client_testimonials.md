@@ -7,15 +7,15 @@ title = "Testimonials"
 type = "page"
 
 +++
-Client Review, Cannabis Due Diligence Matter: 
+Client Review, Cannabis Law, Investor Due Diligence Matter:
 
 "Joe Bondy is a consummate professional and an expert in his field. I hired Joe to help me navigate an investment opportunity on a potential new hemp farm — in Puerto Rico. He was able to get to the bottom of the feasibility assessment — from NYC — via phone within days. His expertise in his ability to assess the potential output versus liability for my investment was apparent from the second he came on board. Within 72 hours, Joe was able to get my initial deposit on the investment returned. Cannot thank him enough for his expertise and experience. Highly recommend."--Paul S NYC
 
-Client Review, CBD Processing License Matter:
+Client Review, Cannabis/ Hemp Law, CBD Processing License Matter:
 
 "I would like to share a great experience working the The Law Offices of Joseph A. Bondy. Last year, New York State opened its  Hemp CBD Processing & Manufacturing License application process, to file between Dec 3 - 27th. We decided to apply for the license of December 7th, and retained Mr. Bondy's Office. Within two weeks,  Mr. Bondy had assisted in gathering and coordinating all of our documentation and information for the state Department of Agriculture, and by December 20th our application was filed successfully. WOW amazing work in such a short period of time, with a great result in the end, thanks Joe."
 
-Client Review, CBD Processing License Matter:
+Client Review, Marijuana/ Hemp Law, CBD Processing License Matter:
 
 "Our Group, Gaard Biopharma, Inc., hired Joe for our CBD Processing License application, as part of the Cannabis Research Program in New York State. He put his heart and soul into making sure everything was complete, and pristine before we applied. Needless to say, we were awarded one of only 15 licenses, out of 352 applicants! That's a mere 4% of the amount of applicants that filed. As we set up our extraction facility, I am also using Mr. Bondy's services for a couple of other projects relating to Cannabis. He is MY lawyer. Top shelf. If you want the best, Joe is the man."
 
@@ -29,7 +29,7 @@ Client Review, Juvenile Justice Matter:
 
 Client Review, Criminal Matter:
 
-“Joe is not only a spectacular lawyer, he is a truly remarkable person. He took a very personal interest in my case, and was always genuinely concerned about my well being, my family, and my life both as it related to my charges and beyond. He saw me as a person, and wanted to know not just about the circumstances regarding my case, but about who I was, where I came from and where I wanted to go and helped me with more than just my case. Not only did he successfully and appropriately have my charges dismissed, he did it in an honest, genuine manner and has even kept in touch with me since. I have known many lawyers, most as friends and colleagues but have never met one like Mr. Joe Bondy. You can't find a better defense attorney in New York.”
+“Joe is not only a spectacular lawyer, he is a truly remarkable person. He took a very personal interest in my case, and was always genuinely concerned about my well being, my family, and my life both as it related to my charges and beyond. He saw me as a person, and wanted to know not just about the circumstances regarding my case, but about who I was, where I came from and where I wanted to go and helped me with more than just my case. Not only did he successfully and appropriately have my charges dismissed, he did it in an honest, genuine manner and has even kept in touch with me since. I have known many lawyers, most as friends and colleagues, but have never met one like Mr. Joe Bondy. You can't find a better defense attorney in New York.”
 
 Client Review, Criminal Matter:
 
@@ -37,7 +37,7 @@ Client Review, Criminal Matter:
 
 Client Review, Criminal Matter:
 
-"Joseph Bondy is one of the best lawyers in New York City. He is very knowledgeable at his job. This man is very intelligent, but most importantly, his is a humble lawyer. He is tremendously helpful and goes to great lengths to help the ones in need. He is well connected in the community, and is well experienced in his field. My family and i are very glad to have such a great lawyer. He has helped us tremendously. I would absolutely recommend him to anyone."
+"Joseph Bondy is one of the best lawyers in New York City. He is very knowledgeable at his job. This man is very intelligent, but most importantly, he is a humble lawyer. He is tremendously helpful and goes to great lengths to help the ones in need. He is well connected in the community, and is well experienced in his field. My family and I are very glad to have such a great lawyer. He has helped us tremendously. I would absolutely recommend him to anyone."
 
 Client Review, Criminal Matter:
 
