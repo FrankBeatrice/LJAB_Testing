@@ -1,6 +1,6 @@
 +++
 date = "2006-08-30T01:45:00+00:00"
-image = "Skyscrapers.jpg"
+image = "/images/c22.jpg"
 layout = "cover"
 title = "Attorneys"
 type = "page"
