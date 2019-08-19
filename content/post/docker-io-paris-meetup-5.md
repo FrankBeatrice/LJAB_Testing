@@ -4,7 +4,7 @@ draft = true
 image = "/content/images/c4.jpg"
 slug = "docker-io-paris-meetup-5"
 tags = ["event", "docker", "meetup"]
-title = "Cannabis News"
+title = "Article Template "
 
 +++
 # Cannabis & Hemp Dilemma
