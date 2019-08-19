@@ -1,6 +1,6 @@
 +++
 date = "2006-08-30T03:45:00+02:00"
-image = "/images/c19.jpg"
+image = "/images/c6.jpg"
 layout = "cover"
 title = "Significant Cases"
 type = "page"
