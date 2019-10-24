@@ -21,7 +21,14 @@
     <div class="extra-pagination inner">
         {{ partial "pagination.html" $paginator }}
     </div>
-
+    {{ if eq $paginator.PageNumber 1 }}  
+    <div class="inner description">
+        <img class="legal-img" src="{{ $.Site.Data.intro.profile_img }}" alt="">
+        <p>{{ $.Site.Data.intro.bio }}</p>
+        <h2>The Legal Blog : of { j }</h2>
+    </div>
+    <hr class="inner">
+     {{ end }}
     {{ range $index, $page := $paginator.Pages }}
         {{ partial "li.html" . }}
     {{ end }}
