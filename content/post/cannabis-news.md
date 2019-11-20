@@ -1,12 +1,12 @@
 +++
-date = 2019-07-22T07:13:00Z
+date = 2019-11-03T14:02:00Z
 image = "/content/images/c4.jpg"
 slug = "docker-io-paris-meetup-5"
-tags = ["event", "docker", "meetup"]
+tags = ["litigation ", "establishing-theory", "utilizing-relevant-information"]
 title = "Understanding Your Right to Present a Theory of Defense"
 
 +++
-# Cannabis & Hemp Dilemma
+# Understanding Your Right to Present a Theory of Defense
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-zKJEPwjBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
