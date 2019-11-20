@@ -4,7 +4,7 @@ draft = true
 image = "/content/images/c4.jpg"
 slug = "docker-io-paris-meetup-5"
 tags = ["event", "docker", "meetup"]
-title = "Article Template "
+title = "Put Your Best Argument First"
 
 +++
 # Put Your Best Argument First
