@@ -1,6 +1,5 @@
 +++
 date = 2019-11-01T07:13:00Z
-draft = true
 image = "/content/images/c4.jpg"
 slug = " Lawline-CLE "
 tags = [" Lawline", "federal criminal cases", "persuasive-practice"]
