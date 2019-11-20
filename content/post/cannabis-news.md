@@ -1,6 +1,5 @@
 +++
 date = 2019-07-22T07:13:00Z
-draft = true
 image = "/content/images/c4.jpg"
 slug = "docker-io-paris-meetup-5"
 tags = ["event", "docker", "meetup"]
