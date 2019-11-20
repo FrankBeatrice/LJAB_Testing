@@ -2,7 +2,7 @@
 date = 2019-07-22T07:13:00Z
 draft = true
 image = "/content/images/c4.jpg"
-slug = "docker-io-paris-meetup-5"
+slug = "An attorney’s ability to write clearly, persuasively, and effectively cannot be understated, particularly so in federal court. Knowing the rules, general structure, and flow of a federal criminal case is an important starting point to being able to make timely written arguments which are properly sequenced for maximum effect. Identifying the relevant issues, and researching and arguing the law as supported by the evidence, are skills that are learned and honed through practice."
 tags = ["event", "docker", "meetup"]
 title = "Put Your Best Argument First"
 
