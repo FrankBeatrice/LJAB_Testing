@@ -1,7 +1,7 @@
 +++
 date = 2019-07-22T07:13:00Z
 image = "/content/images/c4.jpg"
-slug = ""
+slug = " Lawline-CLE "
 tags = ["event", "docker", "meetup"]
 title = "Put Your Best Argument First"
 
