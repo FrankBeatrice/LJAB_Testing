@@ -1,10 +1,9 @@
 +++
 date = 2019-11-01T07:13:00Z
-draft = true
 image = "/content/images/c4.jpg"
-slug = " Lawline-CLE "
+slug = "from-pot-to-impeachment-the-high-wire legal-act "
 tags = [" Lawline", "federal criminal cases", "persuasive-practice"]
-title = "My high-wire legal act"
+title = "From pot to impeachment: The high-wire legal act from Lev Parnas' attorney"
 
 +++
 # Put Your Best Argument First
