@@ -1,7 +1,7 @@
 +++
 date = 2019-11-03T14:02:00Z
 image = "/content/images/c4.jpg"
-slug = "docker-io-paris-meetup-5"
+slug = "explaining-the-significance-of-trump-recording"
 tags = ["litigation ", "establishing-theory", "utilizing-relevant-information"]
 title = "Explaining the Significance of Trump Recording"
 
