@@ -1,7 +1,7 @@
 +++
 date = 2019-11-03T14:02:00Z
 image = "/content/images/c4.jpg"
-slug = "understanding-your-right-to-present-a-theory-of-defense"
+slug = "lawsuit-taking-aim-at-trump-administration-cannabis-policy"
 tags = ["litigation ", "establishing-theory", "utilizing-relevant-information"]
 title = "Lawsuit Takes Aim at Trump Administration Marijuana Policy"
 
