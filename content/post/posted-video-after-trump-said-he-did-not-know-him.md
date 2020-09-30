@@ -1,7 +1,7 @@
 +++
 date = 2019-11-01T07:13:00Z
 image = "/content/images/c4.jpg"
-slug = " Lawline-CLE "
+slug = "trump-said-he-did-not-know-him"
 tags = [" Lawline", "federal criminal cases", "persuasive-practice"]
 title = " 'Parnas' attorney posted this video after Trump said he didn't know him"
 
