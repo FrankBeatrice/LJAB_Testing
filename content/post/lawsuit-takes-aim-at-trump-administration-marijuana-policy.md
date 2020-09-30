@@ -6,9 +6,11 @@ tags = []
 title = "Lawsuit Takes Aim at Trump Administration Marijuana Policy"
 
 +++
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ePKhHLCW26M](https://www.youtube.com/embed/ePKhHLCW26M "https://www.youtube.com/embed/ePKhHLCW26M")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/0TPG2YbL8hU](https://www.youtube.com/embed/0TPG2YbL8hU "https://www.youtube.com/embed/0TPG2YbL8hU")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePKhHLCW26M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+
+
 
 “It’s the first time a young child who needs lifesaving medicine has stood up to the government to be able to use it,”
 
