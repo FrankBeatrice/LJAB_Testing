@@ -1,7 +1,7 @@
 +++
 date = 2019-11-01T07:13:00Z
 image = "/content/images/c4.jpg"
-slug = " Lawline-CLE "
+slug = "recording-appears-to-show-trump-interest-in-value-of-ukraine-aid"
 tags = [" Lawline", "federal criminal cases", "persuasive-practice"]
 title = "Recording appears to show Trump interest in value of Ukraine aid"
 
