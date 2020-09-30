@@ -1,7 +1,7 @@
 +++
 date = 2019-11-01T07:13:00Z
 image = "/content/images/c4.jpg"
-slug = " Lawline-CLE "
+slug = "Put-Your-Best-Argument-First"
 tags = [" Lawline", "federal criminal cases", "persuasive-practice"]
 title = "Put Your Best Argument First"
 
