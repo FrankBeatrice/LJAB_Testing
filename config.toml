@@ -48,7 +48,7 @@ url = "/attorneys/"
 weight = 7
 [params]
 author = "Joseph A. Bondy"
-authorbio = "Joseph A. Bondy (e) - jab@josephabondy.com , (t)- (212) 219-3572 "
+authorbio = "Joseph A. Bondy (e) - jab@josephabondy.com  (t)- (212) 219-3572 "
 authorlocation = "1776 Broadway Suite 2000 NewYork, NY 10019"
 authorwebsite = "/"
 cover = "images/c76.webp"
